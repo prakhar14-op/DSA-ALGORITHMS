@@ -1,6 +1,7 @@
 //method 1
 #include<iostream>
 #include<vector>
+#include <unordered_map>
 using namespace std;
 vector<int> twoSum(vector<int>& nums, int target) {
         int length = nums.size();
@@ -32,4 +33,5 @@ vector<int> twoSum(vector<int>& nums, int target) {
         }
         
         return {}; 
+
 }
