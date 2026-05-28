@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/prakhar14-op/DSA-ALGORITHMS?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 📖 Abstract
+##  Abstract
 
 This repository serves as a centralized archive for Data Structures and Algorithms implemented purely in **C++**. It documents a systematic approach to understanding computational logic, memory management, and algorithmic efficiency.
 
