@@ -31,7 +31,7 @@ The codebase is organized by data structure categories and algorithmic paradigms
 
 ---
 
-## 🛠️ Technical Environment
+##  Technical Environment
 
 * **Primary Language:** C++ (Standard 11/14/17)
 * **Compiler:** GCC / Clang
@@ -40,7 +40,7 @@ The codebase is organized by data structure categories and algorithmic paradigms
 
 ---
 
-## 🚀 Build & Execution Protocols
+##  Build & Execution Protocols
 
 To execute any algorithm within this repository locally, adhere to the following steps:
 
