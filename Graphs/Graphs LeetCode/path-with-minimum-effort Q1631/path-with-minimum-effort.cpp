@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-class Solution {
+class Solution { 
+
         //har ek entry weight hai 
         //target is the bottom right
         //4 way moving allowed 
